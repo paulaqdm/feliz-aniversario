@@ -25,8 +25,6 @@
 	}
 	
 	.texto {
-	font-size: 100%;
-	overflow: auto;
 	height: 100%;
     width: 25.5%;
 	margin-top: 7%;
@@ -73,7 +71,7 @@
 	align-items:flex-end;
 	margin-top: 380px;
 	font-family:Arial;
-	font-size:20;
+	font-size:1em;
 	color:#004b6b;
 	position:relative;
 }
@@ -81,6 +79,7 @@
 	#font6{
 		
 	font-family:Arial;	
+	font-size:1em;
 	color:black;
 	position:relative;
 
