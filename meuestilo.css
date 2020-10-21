@@ -25,6 +25,8 @@
 	}
 	
 	.texto {
+	font-size: 100%;
+	overflow: auto;
 	height: 100%;
     width: 25.5%;
 	margin-top: 7%;
@@ -79,7 +81,6 @@
 	#font6{
 		
 	font-family:Arial;	
-	font-size:21px;
 	color:black;
 	position:relative;
 
