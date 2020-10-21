@@ -12,7 +12,10 @@
 		transform: translateY(-10px);
 	}
 }	
-	
+
+	body{
+	width: 100%;
+	}
 	
 	.btns {
 	text-align:center;
